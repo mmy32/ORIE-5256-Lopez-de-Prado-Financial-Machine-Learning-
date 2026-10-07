@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorCustomizations": {
+      "editor.background": "#071b1e",
+      "editorLineNumber.foreground": "#1f565b",
+      "editorLineNumber.activeForeground": "#2dd4bf",
+      "editorCursor.foreground": "#2dd4bf",
+      "editor.selectionBackground": "#164e5380",
+      "sideBar.background": "#051315",
+      "sideBar.foreground": "#93c5c5",
+      "activityBar.background": "#040e10",
+      "activityBar.foreground": "#42dfd0",
+      "statusBar.background": "#040e10",
+      "statusBar.foreground": "#85ebd9",
+      "titleBar.activeBackground": "#051315",
+      "titleBar.activeForeground": "#a2f2e5",
+      "editorGroupHeader.tabsBackground": "#051315",
+      "tab.activeBackground": "#071b1e",
+      "tab.activeForeground": "#42dfd0",
+      "tab.inactiveBackground": "#051315",
+      "tab.inactiveForeground": "#5a7e82",
+      "tab.activeBorder": "#2dd4bf",
+      "terminal.background": "#071b1e"
+    }
+  }
