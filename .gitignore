@@ -1,7 +1,6 @@
 # Data (large datasets)
 data/
 *.zip
-research/*.pdf
 
 # Secrets
 .env
